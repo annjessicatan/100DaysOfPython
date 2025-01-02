@@ -5,7 +5,7 @@ Compilation of my Python Mini Projects as part of the 100 Days of Code: The Comp
 Project: Band Name Generator
 
 ## Day 02
-Coding Exercise: BMI Calculator\ 
+Coding Exercise: BMI Calculator\
 Project: Tip Calculator
 
 ## Day 03
